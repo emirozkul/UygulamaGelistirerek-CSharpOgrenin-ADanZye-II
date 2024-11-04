@@ -1,0 +1,2 @@
+# emirozkul-UygulamaGelistirerek-CSharpOgrenin-ADanZye-II
+Bu repository, C# kursu boyunca öğrendiğim araç kullanımı, temel syntax, OOP, SQL ve dosya işlemleri gibi konulardaki gelişimimi içerir. Ayrıca grafik, raporlama ve 20 derslik bir gerçek dünya projesi gibi ileri seviye uygulamalar da bulunmaktadır. Her adımı kaydederek yazılım becerilerimi nasıl geliştirdiğimi gösteren kapsamlı bir kaynaktır.
