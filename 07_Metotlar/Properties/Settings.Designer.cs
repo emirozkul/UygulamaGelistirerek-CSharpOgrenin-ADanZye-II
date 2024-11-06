@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _07_Metotlar.Properties
+namespace Metotlar_Proje1.Properties
 {
 
 

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("07_Metotlar")]
+[assembly: AssemblyTitle("Metotlar_Proje1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("07_Metotlar")]
+[assembly: AssemblyProduct("Metotlar_Proje1")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3170bd66-ba5f-40de-b8fc-459e90fd379e")]
+[assembly: Guid("c679fd14-92c8-4fee-a676-2d5d0c7572da")]
 
 // Version information for an assembly consists of the following four values:
 //

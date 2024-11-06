@@ -1,9 +1,0 @@
-C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\10_Ekstra_Yapilar\bin\Debug\10_Ekstra_Yapilar.exe.config
-C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\10_Ekstra_Yapilar\bin\Debug\10_Ekstra_Yapilar.exe
-C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\10_Ekstra_Yapilar\bin\Debug\10_Ekstra_Yapilar.pdb
-C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\10_Ekstra_Yapilar\obj\Debug\10_Ekstra_Yapilar.csproj.AssemblyReference.cache
-C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\10_Ekstra_Yapilar\obj\Debug\_10_Ekstra_Yapilar.Properties.Resources.resources
-C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\10_Ekstra_Yapilar\obj\Debug\10_Ekstra_Yapilar.csproj.GenerateResource.cache
-C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\10_Ekstra_Yapilar\obj\Debug\10_Ekstra_Yapilar.csproj.CoreCompileInputs.cache
-C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\10_Ekstra_Yapilar\obj\Debug\10_Ekstra_Yapilar.exe
-C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\10_Ekstra_Yapilar\obj\Debug\10_Ekstra_Yapilar.pdb
