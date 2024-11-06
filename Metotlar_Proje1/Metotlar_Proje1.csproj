@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3170BD66-BA5F-40DE-B8FC-459E90FD379E}</ProjectGuid>
+    <ProjectGuid>{C679FD14-92C8-4FEE-A676-2D5D0C7572DA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_07_Metotlar</RootNamespace>
-    <AssemblyName>07_Metotlar</AssemblyName>
+    <RootNamespace>Metotlar_Proje1</RootNamespace>
+    <AssemblyName>Metotlar_Proje1</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

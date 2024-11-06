@@ -1,0 +1,10 @@
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\bin\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.exe.config
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\bin\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\bin\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.pdb
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\obj\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.csproj.AssemblyReference.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\obj\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.Form1.resources
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\obj\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.Properties.Resources.resources
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\obj\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.csproj.GenerateResource.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\obj\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.csproj.CoreCompileInputs.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\obj\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje3_2sayiyiToplayanMetot\obj\Debug\Metotlar_Proje3_2sayiyiToplayanMetot.pdb

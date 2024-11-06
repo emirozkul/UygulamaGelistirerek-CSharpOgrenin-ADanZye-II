@@ -1,0 +1,10 @@
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\bin\Debug\Metotlar_Proje2_DegerDondurme.exe.config
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\bin\Debug\Metotlar_Proje2_DegerDondurme.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\bin\Debug\Metotlar_Proje2_DegerDondurme.pdb
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\obj\Debug\Metotlar_Proje2_DegerDondurme.csproj.AssemblyReference.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\obj\Debug\Metotlar_Proje2_DegerDondurme.Form1.resources
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\obj\Debug\Metotlar_Proje2_DegerDondurme.Properties.Resources.resources
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\obj\Debug\Metotlar_Proje2_DegerDondurme.csproj.GenerateResource.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\obj\Debug\Metotlar_Proje2_DegerDondurme.csproj.CoreCompileInputs.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\obj\Debug\Metotlar_Proje2_DegerDondurme.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\Metotlar_Proje2_DegerDondurme\obj\Debug\Metotlar_Proje2_DegerDondurme.pdb

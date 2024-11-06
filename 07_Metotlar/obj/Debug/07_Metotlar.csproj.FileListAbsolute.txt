@@ -1,0 +1,10 @@
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\bin\Debug\07_Metotlar.exe.config
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\bin\Debug\07_Metotlar.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\bin\Debug\07_Metotlar.pdb
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\obj\Debug\07_Metotlar.csproj.AssemblyReference.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\obj\Debug\_07_Metotlar.Form1.resources
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\obj\Debug\_07_Metotlar.Properties.Resources.resources
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\obj\Debug\07_Metotlar.csproj.GenerateResource.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\obj\Debug\07_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\obj\Debug\07_Metotlar.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\07_Metotlar\obj\Debug\07_Metotlar.pdb
