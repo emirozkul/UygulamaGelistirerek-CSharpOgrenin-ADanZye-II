@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Sınıflar_Ornek", "08_Sınıflar_Ornek.csproj", "{0F81330D-9676-4689-8FED-FBF889702B28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek_Console", "Ornek_Console\Ornek_Console.csproj", "{456A3049-8FA1-4BDB-8EB8-08AB951B909D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F81330D-9676-4689-8FED-FBF889702B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F81330D-9676-4689-8FED-FBF889702B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F81330D-9676-4689-8FED-FBF889702B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456A3049-8FA1-4BDB-8EB8-08AB951B909D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456A3049-8FA1-4BDB-8EB8-08AB951B909D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456A3049-8FA1-4BDB-8EB8-08AB951B909D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456A3049-8FA1-4BDB-8EB8-08AB951B909D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

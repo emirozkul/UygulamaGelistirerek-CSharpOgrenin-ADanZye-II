@@ -1,0 +1,7 @@
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\Ornek_Console\bin\Debug\Ornek_Console.exe.config
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\Ornek_Console\bin\Debug\Ornek_Console.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\Ornek_Console\bin\Debug\Ornek_Console.pdb
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\Ornek_Console\obj\Debug\Ornek_Console.csproj.AssemblyReference.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\Ornek_Console\obj\Debug\Ornek_Console.csproj.CoreCompileInputs.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\Ornek_Console\obj\Debug\Ornek_Console.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\Ornek_Console\obj\Debug\Ornek_Console.pdb
