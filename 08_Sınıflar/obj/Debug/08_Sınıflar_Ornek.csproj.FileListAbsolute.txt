@@ -1,0 +1,11 @@
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\bin\Debug\08_Sınıflar.exe.config
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\bin\Debug\08_Sınıflar.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\bin\Debug\08_Sınıflar.pdb
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\obj\Debug\08_Sınıflar_Ornek.csproj.AssemblyReference.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\obj\Debug\_08_Sınıflar.Form1.resources
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\obj\Debug\_08_Sınıflar.Properties.Resources.resources
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\obj\Debug\08_Sınıflar_Ornek.csproj.GenerateResource.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\obj\Debug\08_Sınıflar_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\obj\Debug\08_Sınıflar.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\obj\Debug\08_Sınıflar.pdb
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\08_Sınıflar\obj\Debug\_08_Sınıflar.Form2.resources
