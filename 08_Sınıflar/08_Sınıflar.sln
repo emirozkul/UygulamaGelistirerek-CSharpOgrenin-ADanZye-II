@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ornek_Console", "Ornek_Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "klavyedenGirilen2Sayiya4Islem", "..\klavyedenGirilen2Sayiya4Islem\klavyedenGirilen2Sayiya4Islem.csproj", "{17872C36-E2F4-425D-921A-BA643B7A45AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KimilkSinifOrnek", "..\KimilkSinifOrnek\KimilkSinifOrnek.csproj", "{2C84016C-1DCA-4100-8EFA-A66172AB82C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{17872C36-E2F4-425D-921A-BA643B7A45AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17872C36-E2F4-425D-921A-BA643B7A45AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17872C36-E2F4-425D-921A-BA643B7A45AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C84016C-1DCA-4100-8EFA-A66172AB82C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C84016C-1DCA-4100-8EFA-A66172AB82C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C84016C-1DCA-4100-8EFA-A66172AB82C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C84016C-1DCA-4100-8EFA-A66172AB82C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
