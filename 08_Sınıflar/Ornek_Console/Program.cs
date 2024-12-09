@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -12,8 +13,10 @@ namespace Ornek_Console
         {
             Mesaj msj = new Mesaj();
             PersonID Id = new PersonID();
+            islem toplam = new islem();
 
             string ads, isim, soyisim, meslek;
+            int sayi1, sayi2, sonuc;
 
             msj.Metin();
 
@@ -37,6 +40,14 @@ namespace Ornek_Console
             meslek = Console.ReadLine();
 
             Id.KisiBiligleri(isim, soyisim, meslek);
+
+            Console.WriteLine("-------------------------------------------");
+            Console.Write("Toplanılacak birinci sayıyı giriniz: ");
+            sayi1 = Convert.ToInt16(Console.ReadLine());
+            Console.Write("Toplanılacak ikinci sayıyı giriniz: ");
+            sayi2 = Convert.ToInt16(Console.ReadLine());
+            sonuc = toplam.topla(sayi1, sayi2);
+            Console.WriteLine("Toplam: " + sonuc);
 
 
             Console.ReadLine();

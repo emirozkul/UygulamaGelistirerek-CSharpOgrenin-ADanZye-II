@@ -1,0 +1,14 @@
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\bin\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.exe
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\bin\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.deps.json
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\bin\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.runtimeconfig.json
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\bin\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.dll
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\bin\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.pdb
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\obj\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\obj\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.AssemblyInfoInputs.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\obj\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.AssemblyInfo.cs
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\obj\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.csproj.CoreCompileInputs.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\obj\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.dll
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\obj\Debug\net7.0\refint\klavyedenGirilen2Sayiya4Islem.dll
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\obj\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.pdb
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\obj\Debug\net7.0\klavyedenGirilen2Sayiya4Islem.genruntimeconfig.cache
+C:\Users\hero_\OneDrive\Masaüstü\Uygulama Geliştirerek C#_II\klavyedenGirilen2Sayiya4Islem\obj\Debug\net7.0\ref\klavyedenGirilen2Sayiya4Islem.dll
