@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{99E3B6F4-6184-4CFB-BF17-AC90D0A35CF0}</ProjectGuid>
+    <ProjectGuid>{CE89FDE8-588D-4BA1-8652-962E05556322}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_09_EkstraAraclar</RootNamespace>
-    <AssemblyName>09_EkstraAraclar</AssemblyName>
+    <RootNamespace>Matematik_Fonlsiyonları</RootNamespace>
+    <AssemblyName>Matematik_Fonlsiyonları</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,9 +54,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

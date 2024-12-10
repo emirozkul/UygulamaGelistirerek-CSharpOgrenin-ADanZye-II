@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_EkstraAraclar", "09_EkstraAraclar.csproj", "{99E3B6F4-6184-4CFB-BF17-AC90D0A35CF0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_EkstraAraclar_MenuStrip", "09_EkstraAraclar_MenuStrip.csproj", "{99E3B6F4-6184-4CFB-BF17-AC90D0A35CF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_EkstraAraclar_Chart_Grafik", "09_EkstraAraclar_Chart_Grafik\09_EkstraAraclar_Chart_Grafik.csproj", "{F83A4946-78A3-4CF3-B1A2-DB62E929FC47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_EkstraAraclar_Context_MenuStrip", "09_EkstraAraclar_Context_MenuStrip\09_EkstraAraclar_Context_MenuStrip.csproj", "{2765A736-0D86-47DF-9584-02BB47B137FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{99E3B6F4-6184-4CFB-BF17-AC90D0A35CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99E3B6F4-6184-4CFB-BF17-AC90D0A35CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99E3B6F4-6184-4CFB-BF17-AC90D0A35CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83A4946-78A3-4CF3-B1A2-DB62E929FC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83A4946-78A3-4CF3-B1A2-DB62E929FC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83A4946-78A3-4CF3-B1A2-DB62E929FC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83A4946-78A3-4CF3-B1A2-DB62E929FC47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2765A736-0D86-47DF-9584-02BB47B137FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2765A736-0D86-47DF-9584-02BB47B137FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2765A736-0D86-47DF-9584-02BB47B137FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2765A736-0D86-47DF-9584-02BB47B137FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
