@@ -64,6 +64,9 @@ namespace Captcha_Olusturma
             sayi4 = rnd.Next(0, 10);
 
             label1.Text = sembol1[sayi1] + sembol2[sayi2] + sembol3[sayi3] + sayi4;
+
+
+            
         }
     }
 }

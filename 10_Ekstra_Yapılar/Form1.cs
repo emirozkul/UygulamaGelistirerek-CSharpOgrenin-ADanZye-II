@@ -27,6 +27,8 @@ namespace _10_Ekstra_Yapılar
             label1.Text = sayi1.ToString();
             label2.Text = sayi2.ToString();
             label3.Text = sayi3.ToString();
+            
+                
         }
     }
 }
